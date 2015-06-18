@@ -10,6 +10,10 @@ La documentació del projecte la podem trobar a la [wiki](http://acacha.org/medi
 
 El codi Font de l'API Rest que utilitza aquesta aplicació per a fer peticions HTTP se pot trobar aquí al mateix [Github](https://github.com/nicolaeturcan/trainingresourceapp).
 
+## Aplicació Ionic
+
+El codi Font de l'aplicació Ionic que utilitza aquesta API se pot trobar aquí al mateix [Github](https://github.com/nicolaeturcan/EbreFormAPP).
+
 Podem instal·lar l'aplicació des del [Google Play Console](https://play.google.com/store/apps/details?id=com.iesebre.dam2.pa201415.formapp).
 
 ## Presentació del projecte
